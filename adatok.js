@@ -1,0 +1,1 @@
+export const LISTA = ["tanulás", "tanulás", "tanulás"];
